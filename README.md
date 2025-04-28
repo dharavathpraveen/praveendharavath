@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.jpg" width="200" alt="Praveen Dharavath" style="border-radius: 50%;" />
+  <img src="Profile.jpg" width="200" alt="Praveen Dharavath" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Praveen Dharavath 👋</h1>
