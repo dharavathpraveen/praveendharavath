@@ -1,51 +1,62 @@
-# Hi, I'm Praveen Dharavath! 👋
+<p align="center">
+  <img src="assets/praveen-profile.jpg" width="200" alt="Praveen Dharavath" style="border-radius: 50%;" />
+</p>
 
-🎯 **Cybersecurity Analyst | Smart Contract Security Researcher | Threat Hunter**  
-📍 Based in Jersey City, NJ | Open to Remote & Relocation Opportunities
-
----
-
-## 🚀 About Me
-- 🔒 Passionate about cybersecurity, vulnerability assessment, and incident response.
-- 🧠 Currently expanding skills into Smart Contract Auditing and Blockchain Security.
-- 🖥️ Experienced with tools like Burp Suite, Nessus, Wireshark, Metasploit, Splunk, and Microsoft Sentinel.
-- ⚙️ Coding in Python, PowerShell, Solidity (Smart Contracts), and Bash.
-- 🌐 Familiar with security compliance standards like ISO 27001, NIST 800-53, and SOC 2.
-- 📚 Lifelong learner — always exploring new vulnerabilities, exploits, and security tools.
+<h1 align="center">Hi, I'm Praveen Dharavath 👋</h1>
+<h3 align="center">Cybersecurity Analyst | Threat Hunter | Cloud Security Enthusiast</h3>
 
 ---
 
-## 🛡️ Technical Skills
-- **Programming**: Python, Bash, PowerShell, Solidity
-- **Cybersecurity Tools**: Burp Suite, Nessus, Wireshark, Metasploit, Crowdstrike
-- **Cloud Security**: Azure Security, AWS Security Hub, GCP Security
-- **SIEM Tools**: Splunk, Microsoft Sentinel
-- **Blockchain Security**: Smart Contract Auditing (Solidity, EVM Internals)
+## 🧑‍💻 About Me
+
+🔹 Passionate Cybersecurity Professional specializing in Threat Analysis, Incident Response, and Network Security.  
+🔹 Master's Graduate in Cybersecurity from New York Institute of Technology (NYIT).  
+🔹 Skilled in SIEM Tools, Vulnerability Management, IAM, Cloud Security, and Penetration Testing.  
+🔹 Dedicated to continuous learning, cybersecurity research, and protecting systems worldwide.
 
 ---
 
-## 🏆 Certifications
-- CompTIA Security+
-- Cybersecurity Essentials (Cisco)
-- Google Data Analytics
-- Azure Security Engineer Associate (In Progress)
-- AWS Certified Security Specialty (In Progress)
+## 🛡️ Core Skills & Tools
+
+- **Cybersecurity:** Threat Analysis, SIEM (Log360, Splunk), Incident Response, Vulnerability Assessment, Penetration Testing
+- **Networking:** Network Security, SSL, VPNs, DNS, DHCP, Load Balancing
+- **Security Tools:** ManageEngine Log360, AD Audit, SolarWinds, ServiceNow IAM
+- **Programming:** Python, PowerShell, SQL, Bash
+- **Cloud Security:** Azure, AWS Basics
+- **Certifications:** CompTIA Security+, Cisco Cybersecurity Essentials, Google Data Analytics
+- **Soft Skills:** Problem-solving, Team Collaboration, Leadership, Communication
 
 ---
 
-## 📂 Featured Projects
-- 🎯 **Smart Contract Vulnerability Research**  
-  Manual auditing of Solidity smart contracts, finding security bugs such as reentrancy, overflow, and logical flaws.
-  
-- 🎯 **Movie Review Sentiment Analysis**  
-  Built a deep learning model using NLP to classify IMDB movie reviews with 92% accuracy.
+## 📜 Certifications
+
+- 🎖️ CompTIA Security+ (SY0-601)
+- 🎖️ ServiceNow Certified Implementation Specialist - IAM
+- 🎖️ Cybersecurity Essentials by Cisco
+- 🎖️ Google Data Analytics Professional Certificate
 
 ---
 
-## 📫 How to reach me
-- 📧 Email: [praveendharavathv@gmail.com](mailto:praveendharavathv@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/dharavathpraveen](https://linkedin.com/in/dharavathpraveen)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharavathpraveen&show_icons=true&theme=tokyonight" alt="Praveen Dharavath GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dharavathpraveen&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-> "Cybersecurity is not just a skill — it’s a mindset. Stay curious, stay vigilant!" 🔥
+## 📫 Contact Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/praveendharavath)  
+- 📧 Email: pdharava@nyit.edu  
+- 🌍 Portfolio Website: Coming Soon...
+
+---
+
+<p align="center">
+    Thank you for visiting my profile! 🚀
+</p>
